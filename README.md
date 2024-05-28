@@ -11,6 +11,7 @@ NASA API
 
 # Features
 🌌 Dynamic NASA Photo of the Day: Each new tab displays a new, high-definition photograph from NASA.
+
 📅 Photo Details: Hover over the image to see the name, date, and description of the photo.
 💾 Save Favorites: Save your favorite photos and access them later, regardless of page refreshes.
 🎨 Modern Interface: A sleek, professional design with a strong focus on CSS and responsiveness to ensure a seamless user experience across devices.
